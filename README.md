@@ -20,4 +20,4 @@
 
   - uvicorn app.main:app --reload
 
-7. Make POST /summary request using Postman or some other tool/library
+- Make POST /summary request using Postman or some other tool/library
