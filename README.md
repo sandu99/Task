@@ -1,4 +1,4 @@
-#Python Application Engineer Interview Task
+# Python Application Engineer Interview Task
 
 Place 'sales_data.csv' into the project structure inside app directory
 
